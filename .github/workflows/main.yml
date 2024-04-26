@@ -1,0 +1,1 @@
+& "${Env:PROGRAMFILES(X86)}\Google\Chrome Remote Desktop\CurrentVersion\remoting_start_host.exe" --code="4/0AeaYSHA3d89r-sFWk0lGF3B1bnRSBdRkkoNF7VKhtgp9EZlCOC_I3-6o47HY6oCuWL4d6A" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$Env:COMPUTERNAME
